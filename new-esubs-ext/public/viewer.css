@@ -1,0 +1,51 @@
+/* body {
+    background-color: white;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+} */
+
+/* #color {
+    border-radius: 9px;
+    transition: background-color 0.5s ease;
+    margin-top: 30px;
+    width: 150px;
+    height: 100px;
+    background-color: #6441A4;
+    float: left;
+    position: relative;
+    left: -50%;
+    box-shadow: black 3px 3px;
+}
+
+#color-container {
+    float: left;
+    position: relative;
+    left: 50%;
+}
+.button #cycle{
+    position: absolute;
+    width: 100%;
+    overflow: hidden;
+    margin: auto;
+    border: none;
+    border-radius: 9px;
+    height: 30px;
+    cursor: pointer;
+    opacity: 0.6;
+}
+.hoverme:after{
+    content: 'Click Me!';
+    position: relative;
+    font-weight: bold;
+    margin: 0 auto;
+   
+}
+.hoverme:hover:after{
+    content: 'Change my colour!';
+} */
+.main-style{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
